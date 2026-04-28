@@ -27,6 +27,8 @@ No son solo lenguajes, son herramientas para entender cómo funciona la computac
 ### 📱 Conectemos
 - 📺 **YouTube/TikTok:** [@kodemcode](https://www.youtube.com/@kodemcode)
 - 💼 **LinkedIn:** [josecarvajalmena](https://linkedin.com/in/josecarvajalmena)
+  
+---
+
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3E7-6T9fP6FqXzE3nS8d6w?label=Suscriptores&style=flat-square&logo=youtube&color=ff0000)](https://www.youtube.com/@kodemcode)
-![Seguidores GitHub](https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores%20GitHub&style=flat-square&color=003366)
 > "La lógica es el principio de la sabiduría, no el fin."
