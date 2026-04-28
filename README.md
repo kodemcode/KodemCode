@@ -30,5 +30,5 @@ No son solo lenguajes, son herramientas para entender cómo funciona la computac
   
 ---
 
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3E7-6T9fP6FqXzE3nS8d6w?label=Suscriptores&style=flat-square&logo=youtube&color=ff0000)](https://www.youtube.com/@kodemcode)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrX8KWClLnS8K7YfygeMrNg?label=Suscriptores&style=flat-square&logo=youtube&color=282828)](https://www.youtube.com/@kodemcode)
 > "La lógica es el principio de la sabiduría, no el fin."
