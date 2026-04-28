@@ -1,5 +1,5 @@
 # Hola, soy KodemCode 👋
-
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrX8KWClLnS8K7YfygeMrNg?label=KodemCode%20Comunidad&style=for-the-badge&logo=youtube&color=ff0000)](https://www.youtube.com/@kodemcode)
 ### Aprendiz constante & Divulgador de lógica de programación
 
 Apasionado por desglosar la complejidad. Mi enfoque reside en el **dominio de los algoritmos** y en la **simplificación de conceptos técnicos** para hacerlos universales.
@@ -28,7 +28,4 @@ No son solo lenguajes, son herramientas para entender cómo funciona la computac
 - 📺 **YouTube/TikTok:** [@kodemcode](https://www.youtube.com/@kodemcode)
 - 💼 **LinkedIn:** [josecarvajalmena](https://linkedin.com/in/josecarvajalmena)
   
----
-
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrX8KWClLnS8K7YfygeMrNg?label=Suscriptores&style=flat-square&logo=youtube&color=282828)](https://www.youtube.com/@kodemcode)
 > "La lógica es el principio de la sabiduría, no el fin."
