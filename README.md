@@ -9,14 +9,18 @@ Creyente firme de que fortalecer las bases lógicas es el único camino real hac
 ---
 
 ### 🧠 Mi Enfoque
-* **Lógica & Algoritmos:** El núcleo de todo lo que construyo.
-* **Divulgación:** Simplificando la ingeniería en **KodemCode™**.
-* **Aprendizaje:** Documentando el camino hacia la maestría técnica.
+* **Lógica & Algoritmos:** El núcleo de todo lo que enseño y comparto.
+* **Divulgación:** Simplificando la ingeniería y la algoritmia en **KodemCode™**.
+* **Aprendizaje:** Documentando el camino desde los fundamentos hasta la maestría técnica.
 
-### 🛠️ Stack & Herramientas
+### 🛠️ Herramientas para el Pensamiento Lógico
+No son solo lenguajes, son herramientas para entender cómo funciona la computación:
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
