@@ -23,9 +23,11 @@ No son solo lenguajes, son herramientas para entender cómo funciona la computac
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
+  ### 📱 Conectemos
+- 📺 **YouTube:** [@kodemcode](https://www.youtube.com/@kodemcode) [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrX8KWClLnS8K7YfygeMrNg?label=%20&style=flat-square&logo=youtube&color=ff0000)](https://www.youtube.com/@kodemcode)
+- 💼 **LinkedIn:** [josecarvajalmena](https://linkedin.com/in/josecarvajalmena) [![LinkedIn](https://img.shields.io/badge/-%20-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/josecarvajalmena)
+- 💬 **Comunidad:** [Grupo de WhatsApp](https://chat.whatsapp.com/LPtfQbJnWpc87Qq6029jAk) [![WhatsApp](https://img.shields.io/badge/-%20-25D366?style=flat-square&logo=whatsapp)](https://chat.whatsapp.com/LPtfQbJnWpc87Qq6029jAk)
+- 🐙 **GitHub:** [![Seguidores](https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=flat-square&color=333)](https://github.com/TU_USUARIO)
 
-### 📱 Conectemos
-- 📺 **YouTube/TikTok:** [@kodemcode](https://www.youtube.com/@kodemcode)
-- 💼 **LinkedIn:** [josecarvajalmena](https://linkedin.com/in/josecarvajalmena)
-  
+---
 > "La lógica es el principio de la sabiduría, no el fin."
