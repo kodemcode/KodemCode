@@ -22,6 +22,6 @@ Creyente firme de que fortalecer las bases lógicas es el único camino real hac
 
 ### 📱 Conectemos
 - 📺 **YouTube/TikTok:** [@kodemcode](https://www.youtube.com/@kodemcode)
-- 💼 **LinkedIn:** [Tu Perfil](https://linkedin.com/in/josecarvajalmena)
+- 💼 **LinkedIn:** [josecarvajalmena](https://linkedin.com/in/josecarvajalmena)
 
 > "La lógica es el principio de la sabiduría, no el fin."
