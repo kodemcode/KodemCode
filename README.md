@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola, soy KodemCode 👋
 
-<!--
-**kodemcode/KodemCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aprendiz constante & Divulgador de lógica de programación
 
-Here are some ideas to get you started:
+Apasionado por desglosar la complejidad. Mi enfoque reside en el **dominio de los algoritmos** y en la **simplificación de conceptos técnicos** para hacerlos universales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Creyente firme de que fortalecer las bases lógicas es el único camino real hacia la excelencia técnica y la maestría en el software.
+
+---
+
+### 🧠 Mi Enfoque
+* **Lógica & Algoritmos:** El núcleo de todo lo que construyo.
+* **Divulgación:** Simplificando la ingeniería en **KodemCode™**.
+* **Aprendizaje:** Documentando el camino hacia la maestría técnica.
+
+### 🛠️ Stack & Herramientas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+---
+
+### 📱 Conectemos
+- 📺 **YouTube/TikTok:** [@kodemcode](https://www.youtube.com/@kodemcode)
+- 💼 **LinkedIn:** [Tu Perfil](https://linkedin.com/in/tu-usuario)
+
+> "La lógica es el principio de la sabiduría, no el fin."
